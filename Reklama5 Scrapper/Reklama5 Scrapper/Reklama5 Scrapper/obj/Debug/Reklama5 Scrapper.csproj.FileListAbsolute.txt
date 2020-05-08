@@ -1,0 +1,71 @@
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe.config
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csprojAssemblyReference.cache
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Form1.resources
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Properties.Resources.resources
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.dll
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.dll
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.xml
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.xml
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.CopyComplete
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe.config
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.pdb
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.dll
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.dll
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.xml
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.xml
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csprojResolveAssemblyReference.cache
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Form1.resources
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Properties.Resources.resources
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.GenerateResource.Cache
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.CoreCompileInputs.cache
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.exe
+C:\Users\Neno\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe.config
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.dll
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.dll
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.xml
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.xml
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csprojAssemblyReference.cache
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Form1.resources
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Properties.Resources.resources
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.GenerateResource.cache
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.CopyComplete
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\Downloads\Reklama5 Scrapper (1)\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe.config
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.dll
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.dll
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.xml
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.xml
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csprojAssemblyReference.cache
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Form1.resources
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Properties.Resources.resources
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.GenerateResource.cache
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.CopyComplete
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\Google Drive\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe.config
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.dll
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.dll
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.xml
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.xml
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csprojAssemblyReference.cache
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Form1.resources
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Properties.Resources.resources
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.GenerateResource.cache
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.CoreCompileInputs.cache
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.CopyComplete
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\Downloads\CV-20200508T182754Z-001\CV\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.pdb
